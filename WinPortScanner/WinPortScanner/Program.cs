@@ -1,3 +1,6 @@
+using System;
+using System.Net.Sockets;
+
 namespace WinPortScanner
 {
     internal static class Program
